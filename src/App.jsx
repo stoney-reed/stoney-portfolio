@@ -68,7 +68,7 @@ function App() {
                 stoneyreed25@gmail.com
               </a>
               <a
-                href="https://github.com/sar9928"
+                href="https://github.com/stoney-reed"
                 target="_blank"
                 rel="noreferrer"
                 className="hover:text-sky-400"
@@ -243,8 +243,7 @@ function App() {
           <div className="grid gap-8 md:grid-cols-[1.1fr,1fr]">
             <div className="space-y-4">
               <p className="text-sm text-slate-300">
-                If you’re hiring for a JavaScript / front-end / full-stack role and think I might
-                be a fit, I’d love to chat.
+                If you’re hiring for a JavaScript / front-end / full-stack role, I’d love to chat.
               </p>
               <div className="space-y-2 text-sm text-slate-300">
                 <p>
@@ -259,12 +258,12 @@ function App() {
                 <p>
                   <span className="text-slate-400">GitHub:</span>{" "}
                   <a
-                    href="https://github.com/sar9928"
+                    href="https://github.com/stoney-reed"
                     target="_blank"
                     rel="noreferrer"
                     className="font-medium text-sky-400 hover:underline"
                   >
-                    github.com/sar9928
+                    github.com/stoney-reed
                   </a>
                 </p>
                 <p>
